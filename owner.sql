@@ -48,10 +48,10 @@ CREATE TABLE IF NOT EXISTS `owner` (
 --
 
 INSERT INTO `owner` (`id`, `security_no`, `fname`, `lname`, `address`, `postal_address`, `city`, `telephone`, `email`, `vehicle_id`) VALUES
-(1, 33, 'amos', 'kibet', '00200', '00100', 'Nairobi', '+254727824180', 'kibetamos511@gmail.com', 1),
-(2, 33, 'amos', 'kibet', '00200', '00100', 'Nairobi', '+254727824180', 'kibetamos511@gmail.com', 0),
-(3, 33, 'amos', 'kibet', '00200', '00100', 'Nairobi', '+254727824180', 'kibetamos511@gmail.com', 0),
-(4, 45, 'tyu', 'yhu', '00200', '00100', 'Nairobi', '65656656', '1@gmail.com', 2);
+(1, 33, 'amos', 'kibet', '00200', '00100', 'Nairobi', '111111111', 'kib@gmail.com', 1),
+(2, 33, 'amos', 'kibet', '00200', '00100', 'Nairobi', '1111111111', 'ki@gmail.com', 0),
+(3, 33, 'amos', 'kibet', '00200', '00100', 'Nairobi', '3333333333', 'k@gmail.com', 0),
+(4, 45, 'tyu', 'yhu', '00200', '00100', 'Nairobi', '6565663333', '1@gmail.com', 2);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
